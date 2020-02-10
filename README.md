@@ -1,3 +1,5 @@
+### This code is associated with the paper from Babola et al., "Purinergic signaling in cochlear supporting cells reduces hair cell excitability by increasing the extracellular space". eLife, 2020. http://dx.doi.org/10.7554/eLife.52160
+
 # Source code for eLife Manuscript
 Babola TA, Kersbergen CJ, Wang HC, Bergles DE. Supporting cells in the cochlea reduce hair cell excitability by increasing the extracellar space. eLife, 2019.
 
